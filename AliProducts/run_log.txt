@@ -1,0 +1,109 @@
+2023-10-14 18:27:42 [PID:18228] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 18:33:19 [PID:9900] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 19:09:25 [PID:6648] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 19:16:27 [PID:9376] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 19:28:09 [PID:14616] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 19:35:33 [PID:2264] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 19:48:16 [PID:9140] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 19:56:57 [PID:2512] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 20:09:40 [PID:19680] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 22:23:57 [PID:17620] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 22:25:57 [PID:16960] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 22:26:58 [PID:19624] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 22:52:42 [PID:21064] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 22:54:20 [PID:21752] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 22:59:05 [PID:23224] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 23:04:33 [PID:5044] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 23:05:06 [PID:3264] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 23:05:57 [PID:1736] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 23:10:25 [PID:20720] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 23:11:34 [PID:22944] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 23:11:53 [PID:19556] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 23:25:47 [PID:11116] python3 train.py --tag resnest --model ResNet --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 23:26:48 [PID:4384] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 23:26:54 [PID:4860] python3 C:\Users\86198\Documents\DATAmining\picrecgniz\model\AliProducts\train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+    Error: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrappi
+2023-10-14 23:28:42 [PID:18056] python3 train.py --tag resnest --model ResNeXt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 23:29:19 [PID:23032] python3 train.py --tag resnest --model EfficientNet-B5 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-14 23:37:50 [PID:9664] python3 train.py --tag resnest --model EfficientNet-B5 --optimizer sgd --scheduler 1x -b 24 --lr 0.0001
+2023-10-14 23:52:39 [PID:3396] python3 train.py --tag resnest --model EfficientNet-B5 --optimizer sgd -b 24 --lr 0.0001
+2023-10-14 23:59:59 [PID:21692] python3 train.py --tag resnest --model EfficientNet-B5 --optimizer sgd -b 24 --lr 0.0001
+2023-10-15 12:15:07 [PID:8604] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-15 12:16:05 [PID:6988] python3 train.py --tag resnest --model EfficientNet-B5 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-15 12:23:49 [PID:4424] python3 train.py --tag resnest --model EfficientNet-B7 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-15 12:25:55 [PID:1696] python3 train.py --tag resnest --model iResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-15 12:37:38 [PID:2980] python3 train.py --tag resnest --model EfficientNet-B5 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-15 12:37:44 [PID:1608] python3 C:\Users\86198\Documents\DATAmining\picrecgniz\model\AliProducts\train.py --tag resnest --model EfficientNet-B5 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+    Error: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrappi
+2023-10-17 14:25:11 [PID:18680] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-19 20:12:06 [PID:14196] python3 train.py --tag resnest --model ResNeSt101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-19 20:13:08 [PID:20296] python3 train.py --tag resnest --model EfficientNet-B5 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-19 20:29:24 [PID:10336] python3 train.py --tag resnest --model EfficientNet-B5 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-19 20:29:47 [PID:20496] python3 train.py --tag resnest --model EfficientNet-B5 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-19 20:35:08 [PID:6284] python3 train.py --tag resnest --model EfficientNet-B5 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-19 20:35:13 [PID:12164] python3 C:\Users\86198\Documents\DATAmining\picrecgniz\model\AliProducts\train.py --tag resnest --model EfficientNet-B5 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+    Error: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrappi
+2023-10-19 20:38:06 [PID:17868] python3 train.py --tag resnest --model EfficientNet-B5 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-19 21:02:41 [PID:12944] python3 train.py --tag resnest --model iResnet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-19 21:03:13 [PID:7196] python3 train.py --tag resnest --model iResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-19 21:03:29 [PID:9560] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-19 21:03:34 [PID:18584] python3 C:\Users\86198\Documents\DATAmining\picrecgniz\model\AliProducts\train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+    Error: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrappi
+2023-10-19 21:13:07 [PID:20584] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 12 --lr 0.0001
+2023-10-19 21:13:12 [PID:4360] python3 C:\Users\86198\Documents\DATAmining\picrecgniz\model\AliProducts\train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 12 --lr 0.0001
+    Error: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrappi
+2023-10-19 21:13:28 [PID:18112] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 1 --lr 0.0001
+2023-10-19 21:13:33 [PID:4296] python3 C:\Users\86198\Documents\DATAmining\picrecgniz\model\AliProducts\train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 1 --lr 0.0001
+    Error: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrappi
+2023-10-19 21:14:29 [PID:20376] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 1x -b 24 --lr 0.0001
+2023-10-19 21:14:34 [PID:11348] python3 C:\Users\86198\Documents\DATAmining\picrecgniz\model\AliProducts\train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 1x -b 24 --lr 0.0001
+    Error: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrappi
+2023-10-19 21:15:32 [PID:14592] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 1x -b 24 --lr 0.0005
+2023-10-19 21:15:37 [PID:4540] python3 C:\Users\86198\Documents\DATAmining\picrecgniz\model\AliProducts\train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 1x -b 24 --lr 0.0005
+    Error: 
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrappi
+2023-10-19 21:18:34 [PID:16692] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 1x -b 24 --lr 0.0005
+    Error: Target 6928804011326 is out of bounds.
+2023-10-19 21:19:08 [PID:17680] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+    Error: Target 6920354808388 is out of bounds.
+2023-10-19 21:36:09 [PID:16648] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+    Error: Target 50354 is out of bounds.
+2023-10-19 21:47:43 [PID:1808] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-20 21:32:27 [PID:919886] CUDA_VISIBLE_DEVICES=1 python3 train.py --tag 202310202132 --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-20 21:33:46 [PID:919912] CUDA_VISIBLE_DEVICES=1 python3 train.py --tag 202310202132 --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-20 21:40:57 [PID:920107] CUDA_VISIBLE_DEVICES=0 python3 train.py --tag 202310202140usegpu0start --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+2023-10-21 09:39:44 [PID:625] CUDA_VISIBLE_DEVICES=0 python3 train.py --tag resnest_resume --model ResNeSt101 --epochs 3 -b 24 --lr 0.0001 --load checkpoints/resnest/3_ResNeSt101.pt --resume
+2023-10-21 09:41:30 [PID:630] CUDA_VISIBLE_DEVICES=0 python3 train.py --tag 202310202140usegpu0start --model ResNet101 --epochs 3 -b 24 --lr 0.0001 --load checkpoints/202310202140usegpu0start/3_ResNet101.pt --resume
+2023-10-21 09:42:15 [PID:639] CUDA_VISIBLE_DEVICES=0 python3 train.py --tag 202310202140usegpu0start --model ResNet101 --epochs 3 -b 24 --lr 0.0001 --load checkpoints/202310202140usegpu0start/3_ResNet101.pt --resume
+2023-10-21 09:45:04 [PID:686] CUDA_VISIBLE_DEVICES=0 python3 train.py --tag 202310202140usegpu0start2 --model ResNet101 --epochs 3 -b 24 --lr 0.0001 --load checkpoints/202310202140usegpu0start/3_ResNet101.pt --resume
+2023-10-21 09:47:53 [PID:712] CUDA_VISIBLE_DEVICES=0 python3 train.py --tag 202310202140usegpu0start2 --model ResNet101 --epochs 3 --load checkpoints/202310202140usegpu0start/3_ResNet101.pt --resume
+2023-10-21 09:50:20 [PID:792] CUDA_VISIBLE_DEVICES=0 python3 train.py --tag 202310202140usegpu0start2 --model ResNet101 --epochs 20 -b 24 --lr 0.0001 --load checkpoints/202310202140usegpu0start/3_ResNet101.pt --resume
+2023-10-21 10:36:53 [PID:1573] CUDA_VISIBLE_DEVICES=0 python3 train.py --tag 202310202140usegpu0start2 --model ResNet101 --epochs 20 -b 24 --lr 0.0001 --load checkpoints/202310202140usegpu0start2/5_ResNet101.pt --resume
+2023-10-29 10:36:26 [PID:1496] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+    Error: Caught FileNotFoundError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "/home/kou/a
+2023-10-29 10:41:14 [PID:1592] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+    Error: Caught FileNotFoundError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "/home/kou/a
+2023-10-29 10:52:37 [PID:1801] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001
+    Error: Caught FileNotFoundError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "/home/kou/a
+2023-10-29 10:54:12 [PID:1923] python3 train.py --tag resnest --model ResNet101 --optimizer sgd --scheduler 2x -b 24 --lr 0.0001

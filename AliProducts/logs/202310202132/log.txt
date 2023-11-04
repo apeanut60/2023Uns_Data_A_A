@@ -1,0 +1,57 @@
+[INFO] 2023-10-20 21:33:46 ==================Options==================
+[INFO] 2023-10-20 21:33:46 batch_size=24
+[INFO] 2023-10-20 21:33:46 checkpoint_dir=./checkpoints
+[INFO] 2023-10-20 21:33:46 data_root=./datasets/
+[INFO] 2023-10-20 21:33:46 dataset=default
+[INFO] 2023-10-20 21:33:46 debug=False
+[INFO] 2023-10-20 21:33:46 device=cpu
+[INFO] 2023-10-20 21:33:46 epochs=10
+[INFO] 2023-10-20 21:33:46 eval_freq=1
+[INFO] 2023-10-20 21:33:46 gpu_ids=0
+[INFO] 2023-10-20 21:33:46 init=None
+[INFO] 2023-10-20 21:33:46 load=None
+[INFO] 2023-10-20 21:33:46 log_dir=./logs
+[INFO] 2023-10-20 21:33:46 log_freq=1
+[INFO] 2023-10-20 21:33:46 lr=0.0001
+[INFO] 2023-10-20 21:33:46 model=ResNet101
+[INFO] 2023-10-20 21:33:46 norm=None
+[INFO] 2023-10-20 21:33:46 num_classes=43
+[INFO] 2023-10-20 21:33:46 optimizer=sgd
+[INFO] 2023-10-20 21:33:46 reset=False
+[INFO] 2023-10-20 21:33:46 result_dir=./results
+[INFO] 2023-10-20 21:33:46 resume=False
+[INFO] 2023-10-20 21:33:46 save_freq=1
+[INFO] 2023-10-20 21:33:46 scale=256
+[INFO] 2023-10-20 21:33:46 scheduler=2x
+[INFO] 2023-10-20 21:33:46 smooth=0.0
+[INFO] 2023-10-20 21:33:46 tag=202310202132
+[INFO] 2023-10-20 21:33:46 test_set=None
+[INFO] 2023-10-20 21:33:46 transform=resize
+[INFO] 2023-10-20 21:33:46 val_set=None
+[INFO] 2023-10-20 21:33:46 weight_ce=1.0
+[INFO] 2023-10-20 21:33:46 workers=4
+[INFO] 2023-10-20 21:33:46 ===========================================
+[INFO] 2023-10-20 21:33:47 train_trasforms: Compose([
+  RandomResizedCrop(always_apply=False, p=1.0, height=256, width=256, scale=(0.8, 1.0), ratio=(0.75, 1.3333333333333333), interpolation=1),
+  OneOf([
+    HueSaturationValue(always_apply=False, p=0.9, hue_shift_limit=(-0.4, 0.4), sat_shift_limit=(-0.4, 0.4), val_shift_limit=(-0.4, 0.4)),
+    RandomBrightnessContrast(always_apply=False, p=0.9, brightness_limit=(-0.3, 0.3), contrast_limit=(-0.3, 0.3), brightness_by_max=True),
+  ], p=0.9),
+  GaussianBlur(always_apply=False, p=0.5, blur_limit=(3, 7), sigma_limit=(0, 0)),
+  HorizontalFlip(always_apply=False, p=0.5),
+  VerticalFlip(always_apply=False, p=0.5),
+  Transpose(always_apply=False, p=0.5),
+  Normalize(always_apply=False, p=1.0, mean=(0.485, 0.456, 0.406), std=(0.229, 0.224, 0.225), max_pixel_value=1.0),
+  CoarseDropout(always_apply=False, p=0.5, max_holes=8, max_height=32, max_width=32, min_holes=8, min_height=32, min_width=32, fill_value=0, mask_fill_value=None),
+  ToTensorV2(always_apply=True, p=1.0, transpose_mask=False),
+], p=1.0, bbox_params=None, keypoint_params=None, additional_targets={}, is_check_shapes=True)
+[INFO] 2023-10-20 21:33:47 ===========================================
+[INFO] 2023-10-20 21:33:47 val_trasforms: Compose([
+  Resize(always_apply=False, p=1.0, height=256, width=256, interpolation=1),
+  Normalize(always_apply=False, p=1.0, mean=(0.485, 0.456, 0.406), std=(0.229, 0.224, 0.225), max_pixel_value=1.0),
+  ToTensorV2(always_apply=True, p=1.0, transpose_mask=False),
+], p=1.0, bbox_params=None, keypoint_params=None, additional_targets={}, is_check_shapes=True)
+[INFO] 2023-10-20 21:33:47 ===========================================
+[INFO] 2023-10-20 21:33:47 scheduler: (Lambda scheduler)
+{'epochs': [2, 14, 20, 24], 'ratios': [1.0, 1, 0.1, 0.01]}
+[INFO] 2023-10-20 21:33:47 ===========================================
